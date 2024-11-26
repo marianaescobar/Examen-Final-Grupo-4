@@ -26,7 +26,8 @@ The goal is to empower users with actionable insights, enabling them to make inf
 
 ## Setup
 1. Clone the repository:
-   ```https://github.com/marianaescobar/Examen-Final-Grupo-4
+   ```sh
+   git clone https://github.com/marianaescobar/Examen-Final-Grupo-4
    ```
 2. Navigate to the project directory:
    ```sh
