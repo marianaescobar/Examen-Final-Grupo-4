@@ -26,8 +26,7 @@ The goal is to empower users with actionable insights, enabling them to make inf
 
 ## Setup
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/vikasharma005/Stock-Price-Prediction.git
+   ```https://github.com/marianaescobar/Examen-Final-Grupo-4
    ```
 2. Navigate to the project directory:
    ```sh
@@ -55,3 +54,6 @@ The goal is to empower users with actionable insights, enabling them to make inf
 - Flask
 - Plotly
 - Matplotlib
+
+## License
+This project is licensed under the [MIT License](LICENSE).
