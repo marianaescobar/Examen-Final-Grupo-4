@@ -21,7 +21,7 @@ The goal is to empower users with actionable insights, enabling them to make inf
 ‎
 ## Features
 - **Customize the source of economic information**: Select the economic topic of interest (inflation, employment, interest rates, foreign exchange market, etc.).
-- **Add News Links**: Provide links to relevant news articles that will be analyzed by the application.
+- **Add News headline**: Provide headlines to relevant news articles that will be analyzed by the application.
 - **Generate a Combined Analysis**: The application extracts key information from the news to complement the financial impact calculation, adjusting the results based on the current context.
 
 ## Setup
@@ -29,32 +29,28 @@ The goal is to empower users with actionable insights, enabling them to make inf
    ```sh
    git clone https://github.com/marianaescobar/Examen-Final-Grupo-4
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd stock-price-prediction-app
-   ```
-3. Install the required Python packages using pip:
-   ```sh
-   pip install -r requirements.txt
-   ```
+   
 ## Usage
-1. Run the Streamlit app:
-   ```sh
-   streamlit run app.py
-   ```
-2. The app will open in your default web browser. Use the sidebar to choose options for visualization, recent data display, or making price predictions.
-3. Follow the on-screen instructions to input the stock symbol, select a date range, and choose technical indicators or prediction models.
+1. **Download the database**:
+   ```plaintext
+   Base AI.xlsx
+2. **Download the collab file**:
+   ```plaintext
+   Parcial_Final.ipynb
+3. Open file in collab. Run it
+4. Open gradio
 
 ## Technologies
 - Python
 - NumPy
-- SpaCy
 - Hugging Face
-- NLTK
-- Streamlit
-- Flask
 - Plotly
 - Matplotlib
+- Transformers TrainingArguments
+- Trainer
+- Gradio
+- Pandas
+- Scikit-learn
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
