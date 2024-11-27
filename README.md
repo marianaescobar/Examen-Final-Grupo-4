@@ -8,6 +8,7 @@ Created by: Laura Basto, Mariana Escobar, Esteban Ramirez, Daniela García, Mari
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
+- [Gradio](#gradio)
 - [Technologies](#technologies)
 - [License](#license)
 
@@ -44,6 +45,8 @@ The goal is to empower users with actionable insights, enabling them to make inf
 
 4. **Open gradio**
 
+## Gradio
+Link of Gradio: https://7e9ea583f61ad1831a.gradio.live/
 
 ## Technologies
 - Python
