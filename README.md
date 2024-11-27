@@ -32,13 +32,18 @@ The goal is to empower users with actionable insights, enabling them to make inf
    
 ## Usage
 1. **Download the database**:
-   ```plaintext
-   Base AI.xlsx
-2. **Download the collab file**:
-   ```plaintext
-   Parcial_Final.ipynb
-3. Open file in collab. Run it
-4. Open gradio
+   _Base AI.xlsx_
+2. **Download the collab file**  
+   _Parcial_Final.ipynb_
+
+3. **Open file in collab. Run it.**  
+
+<img src="https://github.com/user-attachments/assets/0020628b-6ef6-4f04-b720-215695c92047" alt="image" width="400">  
+
+<img src="https://github.com/user-attachments/assets/4f198537-71e5-4a98-9d51-f59290a979f3" alt="image" width="400">  
+
+4. **Open gradio**
+
 
 ## Technologies
 - Python
